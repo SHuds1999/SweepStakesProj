@@ -6,20 +6,7 @@ using System.Threading.Tasks;
 
 namespace SweepStakesProject
 {
-    class Program
+    class MarketingFirm
     {
-        static void Main(string[] args)
-        {
-
-            
-
-
-
-
-
-
-
-
-        }
     }
 }
