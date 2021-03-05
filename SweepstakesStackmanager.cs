@@ -8,5 +8,50 @@ namespace SweepStakesProject
 {
     class SweepstakesStackmanager
     {
+        private Stack<SweepStakes> stack;
+
+
+        public SweepstakesStackmanager()
+        {
+            stack = new Stack<SweepStakes>();
+
+
+
+
+        }
+
+
+
+
+
+
+        public void InserSweepStakes(SweepStakes sweepStakes)
+        {
+
+               
+
+
+
+        }
+
+
+        public void GetSweepStakes()
+        {
+
+
+
+
+
+        }
+
+
+
+
+
+
+
+
+
+
     }
 }
